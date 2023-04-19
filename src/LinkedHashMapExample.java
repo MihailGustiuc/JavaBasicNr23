@@ -24,7 +24,7 @@ public class LinkedHashMapExample {
             linkedList.add(entry.getKey());
         }
 
-
+        System.out.println("LinkedHashMap: " + linkedHashMap);
         System.out.println("LinkedHashSet: " + linkedHashSet);
         System.out.println("LinkedList: " + linkedList);
     }
